@@ -1,6 +1,6 @@
 sublime-setup
 =============
-##### Optimized to code with Java Server Pages (JSP)
+##### Optimized to use with Java Server Pages (JSP) and LESS
 
 # Getting Started
 * [Sublime Text 3](http://www.sublimetext.com/3) - Download page
@@ -12,14 +12,21 @@ sublime-setup
   - [Emmet](https://packagecontrol.io/packages/Emmet) - A must for working fast with HTML/CSS
   - [Tag](https://packagecontrol.io/packages/Tag) - Auto closes tags and lints for matched tags
   - [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) - HTML/CSS/JavaScript formatter
-* CSS
-* LESS
+* CSS/LESS
+  - [Goto-CSS-Declaration](https://packagecontrol.io/packages/Goto-CSS-Declaration) - Jump to declaration in CSS, LESS, SASS
+  - [LESS](https://packagecontrol.io/packages/LESS) - LESS syntax highlighting
 * JavaScript
 * JSP
 * Gulp
 * Other
 
 # Version Control
+* [SVN](https://packagecontrol.io/packages/SVN) - If you use Subversion
+* [SublimeGit](https://packagecontrol.io/packages/SublimeGit) - If you use Git
+* [Modific](https://packagecontrol.io/packages/Modific) - Highlight changes in the gutter since last commit
+* [Local History](https://packagecontrol.io/packages/Local%20History) - Keeps a local history ouside your VCS
+
+# Sublime Linter (OSX)
 
 # UI Upgrades
 * Themes
@@ -36,4 +43,4 @@ sublime-setup
   
   ![Cobalt2](https://camo.githubusercontent.com/8b97714849ae20458b16ee3c50b2b95b84fb46b5/687474703a2f2f7765732e696f2f59496a6e2f636f6e74656e74)
 
-# Learning Resources
+# Added Resources
