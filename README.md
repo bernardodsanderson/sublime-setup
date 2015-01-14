@@ -23,6 +23,8 @@ sublime-setup
 * Gulp
   - [Gulp](https://packagecontrol.io/packages/Gulp) - Run Gulp tasks inside Sublime
 * Other
+  - [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete) - Extends autocomplete to all open files
+  - [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) - Full featured code intelligence
 
 # Version Control
 * [SVN](https://packagecontrol.io/packages/SVN) - If you use Subversion
@@ -49,6 +51,9 @@ sublime-setup
   ![Cobalt2](https://camo.githubusercontent.com/8b97714849ae20458b16ee3c50b2b95b84fb46b5/687474703a2f2f7765732e696f2f59496a6e2f636f6e74656e74)
 
 # Added Resources
+* [Sublime Text Power User: A Complete Guide](https://sublimetextbook.com/) - Ebook and videos available
+* [Sublime Productivity](https://leanpub.com/sublime-productivity) - My favorite book on Sublime so far
+* [Writing Sublime Plugins](https://leanpub.com/writing-sublime-plugins) - The book to learn how to make packages
 
 # First Time Steps:
 * Install Sublime Text 3
