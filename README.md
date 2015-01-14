@@ -18,6 +18,7 @@ sublime-setup
 * JavaScript
   - [jQuery Snippets Pack](https://packagecontrol.io/packages/jQuery%20Snippets%20pack) - jQuery snippets
   - [Javascript Snippets](https://packagecontrol.io/packages/JavaScript%20Snippets) - Javascript snippets
+  - [TernJS](https://packagecontrol.io/packages/TernJS) - Analyses JS code on the fly to provide autocompletion, function argument hints, jump to definition, and various automatic refactoring operations
 * JSP
   - [PersistentRegexHighlight](https://packagecontrol.io/packages/PersistentRegexHighlight) - Add custom JSP code checks
 * Gulp
@@ -25,6 +26,9 @@ sublime-setup
 * Other
   - [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete) - Extends autocomplete to all open files
   - [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) - Full featured code intelligence
+  - [AutoFileName](https://packagecontrol.io/packages/AutoFileName) - Autocompletes filenames
+  - [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - Bracket and tag highlighter
+  - [Copy from Find Results](https://packagecontrol.io/packages/Copy%20from%20Find%20Results) - Removes line numbers when copying from the find in files panel
 
 # Version Control
 * [SVN](https://packagecontrol.io/packages/SVN) - If you use Subversion
@@ -32,6 +36,8 @@ sublime-setup
 * [Modific](https://packagecontrol.io/packages/Modific) - Highlight changes in the gutter since last commit
 * [Local History](https://packagecontrol.io/packages/Local%20History) - Keeps a local history ouside your VCS
 * [Sublimerge](https://packagecontrol.io/packages/Sublimerge%20Pro) - Side-by-side diff tool
+* [Find++](https://packagecontrol.io/packages/Copy%20from%20Find%20Results) - Find code quickly (I use find in open files all the time)
+* [Terminal](https://packagecontrol.io/packages/Terminal) - Open terminal from current file or root project folder
 
 # Sublime Linter (OSX)
 
@@ -59,4 +65,4 @@ sublime-setup
 * Install Sublime Text 3
 * Install Package Control using the console
 * Use shift+cmd+p to install specific packages
-* Add files in this folder to the package settings /user folder
+* Add files in this /user folder to the package settings /user folder
