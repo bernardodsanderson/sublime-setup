@@ -20,7 +20,7 @@ sublime-setup
   - [Javascript Snippets](https://packagecontrol.io/packages/JavaScript%20Snippets) - Javascript snippets
   - [TernJS](https://packagecontrol.io/packages/TernJS) - Analyses JS code on the fly to provide autocompletion, function argument hints, jump to definition, and various automatic refactoring operations
 * JSP
-  - [PersistentRegexHighlight](https://packagecontrol.io/packages/PersistentRegexHighlight) - Add custom JSP code checks
+  - [PersistentRegexHighlight](https://packagecontrol.io/packages/PersistentRegexHighlight) - Add custom JSP code checks. If highlighting does not seem to be on, use `shift + cmd + p` and search for `highlight all files`.
 * Gulp
   - [Gulp](https://packagecontrol.io/packages/Gulp) - Run Gulp tasks inside Sublime
 * Other
@@ -42,6 +42,13 @@ sublime-setup
 # Sublime Linter (OSX)
 
 # UI Upgrades
+* To install theme:
+    - shift + cmd + p to search and install package
+    - Edit your user settings to the appropriate theme and color, refer to the docs. For example: 
+  `{
+  "theme": "Spacegray Eighties.sublime-theme",
+  "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme"
+   }`
 * Themes
   - [Spacegray](https://packagecontrol.io/packages/Theme%20-%20Spacegray) - Nice and minimal theme
   
